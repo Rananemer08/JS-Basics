@@ -5,3 +5,4 @@ let nameInput = document.getElementById("name");
       outputDiv.innerText = nameInput.value;
     });
     
+    
